@@ -1,14 +1,14 @@
-function average(graph) {
+const average = (graph) => {
     //
-}
+};
 
-function min(graph) {
+const min = (graph) => {
     //
-}
+};
 
-function max(graph) {
+const max = (graph) => {
     //
-}
+};
 
 console.log(average(graph));
 console.log(min(graph));
